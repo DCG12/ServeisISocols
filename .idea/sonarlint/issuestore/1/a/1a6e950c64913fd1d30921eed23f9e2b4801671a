@@ -1,0 +1,15 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†È’€8„Î˜²+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8„Î˜²+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ƒÉÿù8„Î˜²+
+6squid:S2095"Close this "ServerSocket".(Žõ„è8„Î˜²+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(¥ÊÐÝ8„Î˜²+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(·÷Î8„Î˜²+
+Fsquid:S1166"%Either log or rethrow this exception.(©œ¡ÿÿÿÿÿ8„Î˜²+
+Csquid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8„Î˜²+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÇþŽ8„Î˜²+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ƒÑ›æ8„Î˜²+

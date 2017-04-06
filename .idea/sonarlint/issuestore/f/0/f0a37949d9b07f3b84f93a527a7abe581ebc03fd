@@ -1,0 +1,15 @@
+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(‘í®ùÿÿÿÿ8ÖÃ£²+
+ksquid:S2674"JCheck the return value of the "read" call to see how many bytes were read.(„Ø›áıÿÿÿÿ8ÖÃ£²+
+Wsquid:S1854"6Remove this useless assignment to local variable "os".(¯ÆúÅÿÿÿÿÿ8ÖÃ£²+
+_squid:UselessImportCheck"6Remove this unused import 'java.net.InterfaceAddress'.(Õå–ÿ8—¯›²+
+Hsquid:S1481"'Remove this unused "os" local variable.(¯ÆúÅÿÿÿÿÿ8ÖÃ£²+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÖÃ£²+
+U
+squid:S106";Replace this usage of System.out or System.err by a logger.(µÅ¡8ÖÃ£²+
+Fsquid:S1166"%Either log or rethrow this exception.(©œ¡ÿÿÿÿÿ8ÖÃ£²+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8ÖÃ£²+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(¤‘Ã™8ÊÈÁ²+
